@@ -1,3 +1,3 @@
 ### Made by gnaslobve
 
-![Banner](https://raw.githubusercontent.com/Oachyote/Oachyote/main/IMG_0791.jpeg)
+![Banner](https://raw.githubusercontent.com/gnaslobve/gnaslobve/main/IMG_0790.jpeg)
