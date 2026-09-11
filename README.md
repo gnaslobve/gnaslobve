@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gnaslobve/gnaslobve/main/64510AC0-D0B1-43D6-B195-83AB57F48C4B.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/gnaslobve/gnaslobve/main/1A0F288F-95F0-4A84-B8CF-16E795DAD019.png" width="500"/>
 </p>
