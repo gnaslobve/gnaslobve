@@ -1,3 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gnaslobve/gnaslobve/main/F2946660-0067-48EF-B9E0-165856A65C99.png?v=3" width="800" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gnaslobve/gnaslobve/main/1C516807-60C4-44D4-8CA6-4689996D0784.png" width="800" />
+  
+
