@@ -1,2 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/gnaslobve/gnaslobve/main/1C516807-60C4-44D4-8CA6-4689996D0784.png" width="700"></p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d35d91df-d577-46c2-b68f-962217c148b9" alt="52579" width="100%" />
+</div>
 
