@@ -9,3 +9,6 @@
     width="75%"
     alt="Profile Banner"
   /><p align="center"
+<p align="center">
+  <img src="https://i.postimg.cc/3xcNtj7G/image.png" width="50%">
+</p>
