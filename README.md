@@ -1,6 +1,6 @@
-  <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gnaslobve.visitor-badge&left_text=T%E2%80%9D%E2%80%9DT&left_color=%2392749d&right_color=%23ffffcd" alt="visitor badge"/>
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gnaslobve.visitor-badge&left_text=T%E2%80%9D%E2%80%9DT&left_color=%2392749d&right_color=%23ffffcd" alt="visitor badge" />
+</div>
 </p>
 </p><div align="center">
   <img src="https://github.com/user-attachments/assets/d35d91df-d577-46c2-b68f-962217c148b9" alt="52579" width="100%" 
