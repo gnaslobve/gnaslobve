@@ -1,9 +1,6 @@
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/4490e707-a813-4a6a-a111-ceb6ded9edc7"
-    width="100%"
-    alt="Profile Banner"
-  />
+  <img src="https://i.postimg.cc/9fr2wSkZ/image.png" width="100%">
+</p>
 </p><div align="center">
   <img src="https://github.com/user-attachments/assets/d35d91df-d577-46c2-b68f-962217c148b9" alt="52579" width="100%" />
 </div><p align="center">
@@ -17,11 +14,5 @@
     width="60%"
     alt="Profile Image"
   /><p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/870274dd-5a82-479d-8965-b0488842c8e5"
-    width="100%"
-    alt="Profile Banner 2"
-  />
+  <img src="https://i.postimg.cc/053V94G1/image.png" width="100%">
 </p>
-</p>
-
