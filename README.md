@@ -16,8 +16,9 @@
 </p><p align="center">
   <img src="https://i.postimg.cc/Y0cvfmzX/image.png" width="100%">
 </p><p align="center">
-  <img src="https://i.postimg.cc/Px1XHV1c/image.png" width="50%">
-</p><p align="center">
+<p align="center">
+  <img src="https://i.postimg.cc/zvP7M2y5/image.png" width="50%">
+</p> <p align="center">
   <img src="https://i.postimg.cc/mg7Fdj5Q/image.png" width="100%">
 </p>
 
