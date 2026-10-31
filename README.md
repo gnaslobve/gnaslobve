@@ -10,15 +10,8 @@
   <!-- cái vạch trang trí 2 mũi tên của bà -->
   <div style="border-top: 1px solid #C5C1CC; width: 80%; margin: 0 auto;"></
 
-</div>i reply slow ^'''^ but I’ll reply ASAP  <img src="https://i.postimg.cc/jdC70NMB/image.png" width="100%">
-</p><p align="center">
-  <img src="https://i.postimg.cc/cLcfxTBw/image.png" width="100%">
-</p><p align="center">
-  <img src="https://i.postimg.cc/Y0cvfmzX/image.png" width="100%">
-</p><p align="center">
-<p align="center">
+</div>i reply slow ^'''^ but I’ll reply ASAP<img src="https://i.postimg.cc/Zn7yWL6X/image.png" alt="image">
+<p align="center"><img src="https://i.postimg.cc/Zq9k2PYb/image.png" width="100%"><img src="https://i.postimg.cc/ryH4LMNQ/image.png" width="100%">
   <img src="https://i.postimg.cc/zvP7M2y5/image.png" width="50%">
-</p> <p align="center"><a href="https://gnas.atabook.org/">ata.book</a>
-  <img src="https://i.postimg.cc/mg7Fdj5Q/image.png" width="100%">
-</p>
+</p> <p align="center"><a href="https://gnas.atabook.org/">ata.book</a><img src="https://i.postimg.cc/DzCrJs1V/image.png" width="100%">
 
